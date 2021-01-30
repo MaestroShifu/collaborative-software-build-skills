@@ -15,3 +15,5 @@
 ![fetch / checkout master / pull](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/checkout-master-pull.jpeg)
 ## Creamos la nueva rama feature1
 ![create branch feature1](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/checkout-master-pull.jpeg)
+## Subimos nuestro primer commit a feature1
+![first commit feature1](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/first-commit-feature1.jpeg)
