@@ -1,2 +1,7 @@
 # collaborative-software-build-skills
-Collaborative software build skills
+
+## Creamos nuestro repositorio
+
+## Clonamos nuestro repo
+
+## Subimos nuestro primer commit a master
