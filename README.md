@@ -32,4 +32,4 @@
 ## Realizamos rebase feature2 a master
 ![rebase feature2](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/rebase-feature2-master.jpeg)
 ## Resolvemos los conflictos del pr feature2 a master
-![rebase feature2](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/resolve-conflicts.jpeg)
+![resolve conflictos pr feature2](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/resolve-conflicts.jpeg)
