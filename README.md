@@ -9,4 +9,13 @@
 
 
 
-## Realizamos un commit a hotfix
+
+
+
+
+
+
+## Subimos nuestro segundo commit a feature1
+![second commit feature1](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/second-commit-feature1.jpeg)
+## Creamos la nueva rama feature2 desde master
+![create feature2](https://github.com/MaestroShifu/collaborative-software-build-skills/blob/main/assets/create-feature2.jpeg)
